@@ -61,7 +61,7 @@ It is tailored to support both government officials and the general public, prov
 - **DATABASE_URL** : PostgreSQL connection string.
 - **SECRET_KEY** : Flask app secret key.
 ## Usage
-# Admin Panel
+## Admin Panel
 - Manage users and permissions.
 - View analytics and reports.
 - Author, Artist, Publisher Portal
