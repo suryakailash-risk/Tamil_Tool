@@ -1,5 +1,3 @@
-# Creating a README.md file content for the project
-
 # Tamil SAMGAM and Government Project
 
 This repository hosts the live implementation of the **Tamil SAMGAM and Government Project**, a robust and scalable platform designed to meet the specific requirements of Tamil Nadu's governance and community engagement. The application is built using **Angular**, **Flask (Python)**, and **PostgreSQL**, and is deployed on a Virtual Private Server (VPS) for real-time operations.
